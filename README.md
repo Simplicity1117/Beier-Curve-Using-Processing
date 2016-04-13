@@ -11,3 +11,5 @@ This totally clear the screen.
 
 This was a simple work I did during my weeked so, doesn't conatian comments ans so but It does is fun to play with so I thought 
 people might like it.
+
+One Important thing, It might requires JAVA being installed on the PC to run the application. So make sure JAVA is installed, else it will direct to the page from where JAVA environment needed could be downloaded.
